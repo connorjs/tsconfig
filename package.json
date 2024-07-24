@@ -1,0 +1,18 @@
+{
+	"name": "@connorjs/tsconfig",
+	"version": "0.1.0",
+	"type": "module",
+	"files": [
+		"lib"
+	],
+	"scripts": {
+	},
+	"peerDependencies": {
+		"typescript": ">=5.0.0"
+	},
+	"peerDependenciesMeta": {
+		"typescript": {
+			"optional": true
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	// https://www.typescriptlang.org/tsconfig
+	"extends": "../base/tsconfig.json",
+	"compilerOptions": {
+		"noEmit": true
+	}
+}
