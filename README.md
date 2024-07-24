@@ -16,15 +16,14 @@
    ```
 
 2. Extend it in your `tsconfig.json`.
-   Change the extends based on the configuration.
+   An example follows.
 
    ```json
    {
      "extends": "@connorjs/tsconfig/app/tsconfig.json",
      "compilerOptions": {
-   	   // Your compiler options here
-   	   "baseUrl": ".",
-   	   "outDir": "./artifacts/tsc"
+       "baseUrl": ".",
+       "outDir": "./artifacts/tsc"
      },
      "include": ["src"]
    }
