@@ -1,6 +1,6 @@
 {
 	"name": "@connorjs/tsconfig",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "@connorjs’s tsconfig",
 	"keywords": [
 		"tsconfig"
@@ -17,7 +17,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/connorjs/tsconfig"
+		"url": "git+https://github.com/connorjs/tsconfig.git"
 	},
 	"type": "module",
 	"files": [
