@@ -3,6 +3,7 @@
 	// https://www.typescriptlang.org/tsconfig
 	"extends": "../base/tsconfig.json",
 	"compilerOptions": {
+		"emitDeclarationOnly": false,
 		"noEmit": true
 	}
 }
