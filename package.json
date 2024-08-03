@@ -1,6 +1,6 @@
 {
 	"name": "@connorjs/tsconfig",
-	"version": "0.2.0",
+	"version": "0.0.0-gitversion",
 	"description": "@connorjs’s tsconfig",
 	"keywords": [
 		"tsconfig"
@@ -22,7 +22,8 @@
 	"type": "module",
 	"files": [
 		"app",
-		"base"
+		"base",
+		"lib"
 	],
 	"scripts": {
 	},
